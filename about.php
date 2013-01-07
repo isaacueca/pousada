@@ -14,7 +14,7 @@
 	<div class="row">
 		<article class="one-third block relative  column alpha">
 				<figure>
-					<img src="images/dummy/pousada_1.jpg" class="scale-with-grid" alt="" />
+					<img src="images/dummy/pousada10.jpg" class="scale-with-grid" alt="" />
 				</figure>
 		</article>
 	
