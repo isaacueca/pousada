@@ -105,7 +105,7 @@ a.link-button { font-size:10px; font-weight:bold; vertical-align: top; backgroun
 .block a:hover h1 { color:#3f7539; }
 .block a:hover figure { border:solid 1px #3f7539; box-shadow:0 0 5px rgba(0,0,0,0.2); }
 .one-third.with-action, .five.with-action { height:350px; }
-.eight.with-action { height:430px; }
+.eight.with-action { height:520px; }
 .eight.with-action .col-action { width:96%; }
 .eleven.with-action { height:380px; }
 .eleven.with-action .col-action { width:97%; }
@@ -187,7 +187,7 @@ table tr:nth-child(2n+1) td { background: #f5f5f5; }
 /* Slider */
 .flex-utils { position:relative; }
 .flex-captions { height:40px; position:relative; margin-top:-40px !important; background: #fff; background:rgba(255,255,255,0.9); }
-.flex-captions p { padding:10px 0 0 35px; background: url(../images/sprite.png) no-repeat 10px -42px; }
+.flex-captions p { padding:10px 0 0 35px; background: url(../images/sprite.png) no-repeat 10px -42px; font-style:italic}
 #home-slider li { margin-bottom:0; }
 #home-slider .flex-direction-nav { position:absolute; top:33px; right:10px; }
 #home-slider .flex-direction-nav li { margin:0; float:left; margin-left:5px;}
@@ -394,6 +394,7 @@ table tr:nth-child(2n+1) td { background: #f5f5f5; }
 .fancybox-title-over-wrap { position: absolute; bottom: 0; left: 0; color: #fff; padding: 10px; background: #000; background: rgba(0, 0, 0, .8); }
 .hidden { display:none; }
 
+.error {color:red;}
 /* Media Queries
 ================================================== */
 
@@ -493,3 +494,13 @@ table tr:nth-child(2n+1) td { background: #f5f5f5; }
 	#booking p input[type=text] { width:95%; }
 	#booking p input[type=submit] { width:100%; }	
 }
+
+#response {
+  margin-bottom: 20px;
+  text-align: center;
+}
+#response .success {
+  color: #08a300;
+}
+#response .failure {
+  color: #dc0000;

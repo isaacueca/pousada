@@ -9,10 +9,12 @@
 	  ================================================== -->
 		<meta charset="utf-8">
 		<title>Pousada Verde Ambiente - A primeira de Antonio Carlos</title>
-
+		
 		<!-- Mobile Specific Metas
 	  ================================================== -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="keywords" content="verde ambiente, antonio carlos, natureza, pousada, hotel, pousada verde ambiente">
+		<meta name="description" content="Situada numa montanha no municipio de Antônio Carlos e cercada por vegetação nativa da mata Atlântica, a Pousada Verde Ambiente conta com diversas atrações para voce e toda a sua família. Faça a sua reserva hoje!">
 
 		<!-- CSS
 	  ================================================== -->
@@ -45,12 +47,12 @@
 	<header id="header" class="container">
 
 		<h1>
-			<a href="#"><img src="images/logo.png" alt="" /></a>
+			<a href="index.php?page=home"><img src="images/logo1.png" alt="" /></a>
 		</h1><!-- /logo -->
 
 		<nav id="navigation" class="ten columns alpha">
 			<ul class="nav group">
-				<li><a href="index.php?page=home">Inicio</a></li>
+				<li><a href="index.php?page=home">Início</a></li>
 				<li>
 					<a href="index.php?page=about">A Pousada</a>
 				</li>
@@ -62,12 +64,9 @@
 					<a href="index.php?page=eventos">Eventos</a>
 
 				</li>
-				<!-- <li>
-					<a href="index.php?page=fotos">Fotos</a>
-				</li> -->
 
 				<li>
-					<a href="index.php?page=comochegar">Localizacao</a>
+					<a href="index.php?page=comochegar">Localização</a>
 
 				</li>
 				<li>

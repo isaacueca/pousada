@@ -2,12 +2,20 @@
 <div id="main" class="container">
 
 <div class="row">
+	<h1><a href="#">A Pousada</a></h1>
 	<section class="content eleven columns alpha group">
-		<p>Mantendo a estrutura tradicional de um antigo morador local, a Pousada Verde Ambiente nasceu de uma ideia de compartilhar o climea de harmonia que envolve o lugar.</p>
+		<p>Mantendo a estrutura tradicional de um antigo morador local, a Pousada Verde Ambiente nasceu de uma idéia de compartilhar o clima de harmonia que envolve o lugar.</p>
 
-		<p>Passados 11 anos, a infra-estrutura e atendimento cresceram, mantendo o respeito a natureza aliado ao lazer, e hoje, nossa experience pode direcionar com clareca e seguranca as condicoes favoraveis ao bem estar.</p>
+		<p>Passados vinte anos, a infra-estrutura e atendimento da Pousada cresceram, mantendo sempre o respeito à natureza aliado ao lazer.</p>
 
-		<p>Para isso, contados com uma equipe focada em proporcionar um otimo atendimento para voce e sua familia.</p>
+		<p>A Pousada conta com 3 tipos de acomodações: chalé, cabanas e dormitórios, todos com ventiladores e TV. A Pousada conta tambem com uma cabana especial com ar condicionado.</p>
+		
+		<p>Acesso à Internet via WIFI é oferecido gratuitamente a todos os nossos visitantes.</p>
+		
+		<p>Originalmente um antigo Engenho de melado e cachaça, nosso restaurante conta com uma capacidade para acomodar cem pessoas. </p>
+		
+
+		
 	</section>	
 	</div>
 	

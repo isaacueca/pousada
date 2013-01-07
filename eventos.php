@@ -2,12 +2,28 @@
 <div id="main" class="container">
 
 <div class="row">
+	<h1><a href="#">Eventos</a></h1>
+	
 	<section class="content eleven columns alpha group">
-		<p>Mantendo a estrutura tradicional de um antigo morador local, a Pousada Verde Ambiente nasceu de uma ideia de compartilhar o climea de harmonia que envolve o lugar.</p>
+		Com centenas de eventos realizados nos últimos anos, a Pousada Verde Ambiente conta com uma estrutura completa para voce realizar o seu evento com sucesso, includindo um auditório  climatizado com capacidade para cem pessoas.</p>
+		
+		<p>Entre os eventos realizados, se encontram retiros espirituais e festas dos principais feriados nacionais, tais quais Páscoa, Carnaval, Natal e Ano Novo.</p>
+		
 
-		<p>Passados 11 anos, a infra-estrutura e atendimento cresceram, mantendo o respeito a natureza aliado ao lazer, e hoje, nossa experience pode direcionar com clareca e seguranca as condicoes favoraveis ao bem estar.</p>
+		<h2 style="color:#525252">Pacotes</h2>
 
-		<p>Para isso, contados com uma equipe focada em proporcionar um otimo atendimento para voce e sua familia.</p>
+		<p>Nossos pacotes especiais variam de acordo com o número de pessoas e data.</p>
+
+		<p>Para grupos acima de trinta pessoas, a Pousada está com uma promoção incrível! A entrada na sexta-feira e a saída no domingo, com todas as refeições incluídas (café da manhã, almoço e janta) sai por 
+apenas R$80,00 (oitenta reais) por pessoa!*</p>
+
+		<p><strong>Faça já a sua reserva!</strong></p>
+
+		<p>Para grupos abaixo de trinta pessoas favor preencher o formulário abaixo, que entraremos em contato prontamente.</p>
+		
+		<p style="font-size:0.8em">*preço sujeito à alterações</p>
+		
+		
 	</section>	
 </div><!-- /container -->
 

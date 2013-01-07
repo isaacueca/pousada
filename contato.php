@@ -2,12 +2,13 @@
 <div id="main" class="container">
 
 <div class="row">
+	<h1><a href="#">Contato</a></h1>
+	
 	<section class="content eleven columns alpha group">
-		<p>Mantendo a estrutura tradicional de um antigo morador local, a Pousada Verde Ambiente nasceu de uma ideia de compartilhar o climea de harmonia que envolve o lugar.</p>
+		<p>Para maiores informações, favor preencher o formulário abaixo que entraremos em contato prontamente.</p>
+		<p>Ou se preferir, você também poderá enviar um email diretamente para <a href="mailto:stelaverdeambiente@gmail.com">stelaverdeambiente@gmail.com</a> ou telefonar para (48) 9115-1228. </p>
+		<p><strong>A Pousada Verde Ambiente espera por você!</strong></p>
 
-		<p>Passados 11 anos, a infra-estrutura e atendimento cresceram, mantendo o respeito a natureza aliado ao lazer, e hoje, nossa experience pode direcionar com clareca e seguranca as condicoes favoraveis ao bem estar.</p>
-
-		<p>Para isso, contados com uma equipe focada em proporcionar um otimo atendimento para voce e sua familia.</p>
 	</section>	
 </div><!-- /container -->
 

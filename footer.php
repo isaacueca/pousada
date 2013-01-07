@@ -3,25 +3,32 @@
 		<div class="row">
 			<article class="eight block relative with-action columns alpha">
 			
-			<h1 style="font-size:1.5em; color:#125d08">
-				Informacoes e reserva
-			</h1>
-			<form method="post" class="constainer" action="action.php">
-					<label>Nome</label>
-					<input type="text" class="count" placeholder="Seu nome" />
-					<label>Email</label>
-					<input type="text" class="count" placeholder="Seu e-mail" />
-					<label>Mensagem</label>
-					<textarea rows="2" cols="50">
-					</textarea>
-					<input type="submit" value="Enviar" />
-			</form>
+				<h1 style="font-size:1.5em; color:#125d08">
+					Informações e reservas
+				</h1>
+				
+				
+
+				<form method="post" id="contactForm" class="constainer" action="submit_mail.php">
+						<label for="nome">Nome</label>
+						<input type="text" name="nome" class="count" placeholder="Seu nome" />
+						<label for="email">Email</label>
+						<input type="text" name="email" class="count" placeholder="Seu e-mail" />
+						<label for="mensagem">Mensagem</label>
+						<textarea name="mensagem" rows="2" cols="50"></textarea>
+						<input type="submit" value="Enviar" />
+				</form>
+
+				<div class="results" style="font-size:1.6em; margin-top:15px; font-weight:bold;color:#112b0b; font-style:italic; margin-bottom:15px">
+					
+				</div>
+			
 			</article>
 			
 			<article class="eight block relative with-action columns alpha">
 				
 				<h1 style="font-size:1.5em; color:#125d08">
-					Introducao a Pousada
+					Introdução à Pousada
 				</h1>
 				
 				<iframe width="480" height="360" src="http://www.youtube.com/embed/hMB26ow3Syk" frameborder="0" allowfullscreen></iframe>				
@@ -55,3 +62,17 @@
 		
 	</footer>	
 </div><!-- /footer-wrap -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37470443-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
